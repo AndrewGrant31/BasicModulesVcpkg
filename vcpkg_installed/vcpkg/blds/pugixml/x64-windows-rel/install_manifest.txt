@@ -1,0 +1,9 @@
+C:/Projects/BasicModulesVcpkg/vcpkg_installed/vcpkg/pkgs/pugixml_x64-windows/lib/pugixml.lib
+C:/Projects/BasicModulesVcpkg/vcpkg_installed/vcpkg/pkgs/pugixml_x64-windows/bin/pugixml.dll
+C:/Projects/BasicModulesVcpkg/vcpkg_installed/vcpkg/pkgs/pugixml_x64-windows/lib/cmake/pugixml/pugixml-targets.cmake
+C:/Projects/BasicModulesVcpkg/vcpkg_installed/vcpkg/pkgs/pugixml_x64-windows/lib/cmake/pugixml/pugixml-targets-release.cmake
+C:/Projects/BasicModulesVcpkg/vcpkg_installed/vcpkg/pkgs/pugixml_x64-windows/lib/cmake/pugixml/pugixml-config-version.cmake
+C:/Projects/BasicModulesVcpkg/vcpkg_installed/vcpkg/pkgs/pugixml_x64-windows/lib/cmake/pugixml/pugixml-config.cmake
+C:/Projects/BasicModulesVcpkg/vcpkg_installed/vcpkg/pkgs/pugixml_x64-windows/lib/pkgconfig/pugixml.pc
+C:/Projects/BasicModulesVcpkg/vcpkg_installed/vcpkg/pkgs/pugixml_x64-windows/include/pugiconfig.hpp
+C:/Projects/BasicModulesVcpkg/vcpkg_installed/vcpkg/pkgs/pugixml_x64-windows/include/pugixml.hpp

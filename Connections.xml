@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Databases>
+	<Name>Warehouse</Name>
+	<Description>Connection details for the Warehouse stock database</Description>
+	<Details>
+		<Type id="Stock">
+			<ConnectionString>168.192.68.101</ConnectionString>
+			<Port>3306</Port>
+			<Database>Stock</Database>
+			<Table>Products</Table>
+		</Type>
+	</Details>
+</Databases>

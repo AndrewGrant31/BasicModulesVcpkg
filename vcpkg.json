@@ -1,0 +1,8 @@
+{
+  "name": "basicmodulesvcpkg",
+  "version-string": "0.1",
+  "dependencies": [
+    "pugixml"
+  ],
+  "builtin-baseline": "275a29dcdb864aa9ce57042eadf95f4a28482280"
+}
